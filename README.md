@@ -25,4 +25,4 @@ Ce projet présente la migration de Windows d'un disque mécanique sur un disque
 
 ## Captures d'écran
 
-À venir.
+![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/main/Etape1.png?raw=true)
