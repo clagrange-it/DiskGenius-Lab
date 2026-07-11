@@ -26,22 +26,28 @@ Ce projet présente la migration de Windows d'un disque mécanique sur un disque
 ## Captures d'écran
 
 Etape 2
+
 ![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/main/Etape1.png?raw=true)
 ![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/35673114b54fdf80b3ba4c8476d83afa89e5f96d/3.png)
 
 Etape 4
+
 ![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/35673114b54fdf80b3ba4c8476d83afa89e5f96d/Etape4.png)
 ![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/35673114b54fdf80b3ba4c8476d83afa89e5f96d/5.png)
 
 Etape 5
+
 ![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/35673114b54fdf80b3ba4c8476d83afa89e5f96d/Etape5.png)
 ![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/35673114b54fdf80b3ba4c8476d83afa89e5f96d/7.png)
 
 Etape 6
+
 ![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/35673114b54fdf80b3ba4c8476d83afa89e5f96d/Etape6.png)
 
 Etape 7
+
 ![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/35673114b54fdf80b3ba4c8476d83afa89e5f96d/Etape7.png)
 
 Etape 8
+
 ![image alt](https://github.com/clagrange-it/DiskGenius-Lab/blob/35673114b54fdf80b3ba4c8476d83afa89e5f96d/12.png)
